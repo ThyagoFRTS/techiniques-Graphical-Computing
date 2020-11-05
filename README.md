@@ -1,6 +1,6 @@
 # techiniques-Graphical-Computing
 
-<h1>Object Sybthesis</h1>
+<h1>Object Synthesis</h1>
 
 
 <h2>Numpy conflict 1.19.4</h2>
