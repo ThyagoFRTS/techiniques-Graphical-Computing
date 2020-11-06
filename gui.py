@@ -54,7 +54,7 @@ def main():
 	btn4 = tk.Button(main_window, text = "flip image",command = lambda: pi.flip_image(img,int(flip.get())))
 	btn5 = tk.Button(main_window, text = "translate image",command = lambda: pi.translate_image(img,
 																								float(horizontal.get()),
-																								float(vertical.get())
+																								-float(vertical.get())
 																									))
 
 	btn1.grid(row = 0,column = 0)
