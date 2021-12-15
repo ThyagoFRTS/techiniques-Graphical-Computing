@@ -2,7 +2,7 @@
 """
 Created on Mon Oct 26 15:04:38 2020
 
-@author: RuiRui
+@author: npx.msc
 """
 
 import tkinter as tk
